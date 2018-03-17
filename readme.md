@@ -30,3 +30,10 @@ sample.pyを参考にしてください。
 ## その他
 このファイルは[lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface/)より判定が厳しいです。  
 また、顔として認識する範囲が顔ギリギリです。  
+
+## 参考
+モデル作成時に参考にしたサイトの一覧です。  
+[dlibをWindowsにインストールする - TadaoYamaokaの日記](https://goo.gl/NqHp2K)  
+[dlibをWindowsにインストールする(補足) - TadaoYamaokaの日記](https://goo.gl/tcNBFX)  
+[dlibでマンガの顔認識をやってみた - TadaoYamaokaの日記](https://goo.gl/i9D1Lu)  
+[dlibのSimple_Object_detectorを用いたPythonでの物体検出器の学習 - Stimulator](https://goo.gl/Uu9tUQ)  
